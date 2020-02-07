@@ -1,0 +1,25 @@
+.how-works {
+  display:flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.card {
+  width: 200px;
+  border-radius: 3px;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightgrey;
+}
+
+.card-image {
+  height: 100px;
+}
+
+.container h2 {
+  text-align: center;
+}
